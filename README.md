@@ -2,4 +2,5 @@
 
 BinSearch algorithm made on Golang
 
-Only works for int numbers
+* Array should be previously sorted
+* Only works for int numbers
