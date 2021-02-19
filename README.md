@@ -1,6 +1,8 @@
 # BinSearchGo+
 
-BinSearch algorithm made on Golang
+Golang Bin Search Algorithm
+
+## Constraints
 
 * Array should be previously sorted
 * Only works for int numbers
